@@ -1,0 +1,6 @@
+.codex/*
+!.codex/prompts/
+!.codex/prompts/**
+
+.claude/*
+!.claude/README.md
